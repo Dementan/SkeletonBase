@@ -1,0 +1,11 @@
+From Red_book:
+1 Медицинская пиявка Hirudo medicinalis Медычная п’яўка II
+2 Длиннохвостый лимнокалянус Limnocalanus macrurus Доўгахвосты лiмнакалянус III
+3 Озерная эвритемора Eurytemora lacustris Азѐрная эўрытэмора III
+4 Реликтовая мизида Mysis relicta Loven Рэлiктавая мiзiда III
+5 Бокоплав Палласа Pallassiola quadrispinosa Бакаплаў Паласа III
+6 Родственная понтопорея Pontoporea affinis Роднасная пантапарэя III
+7 Широкопалый рак Astacus astacus Шыракапальцы рак III
+8 Паук сплавной большой Dolomedes plantarius Павук вялікі сплаўны III
+9 Броненосец Связанный Glomeris connexa Браненосец звязаны IV
+10 Поденка щитовидная Prosopistoma foliaceum Аўсянік шчытападобны II
